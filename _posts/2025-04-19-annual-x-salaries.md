@@ -14,7 +14,12 @@ Before analyzing the relationship between financial investment and on-field succ
    title="Cross-League Team Spend by Year" %}
 
 
-The plot above presents each league in a distinct color, using box-and-whisker plots to visualize the distribution of team payrolls. These plots are particularly effective for highlighting spread and central tendency in financial data. The “box” represents the interquartile range (the middle 50% of teams), the horizontal line within the box indicates the median, and the “whiskers” extend to capture the outer 50% of values, providing insight into outliers and variability. 
+The plot above presents each league in a distinct color, using box-and-whisker plots to visualize the distribution of team payrolls. 
+These plots are particularly effective for highlighting spread and central tendency in financial data.
+ - The “box” represents the interquartile range (the middle 50% of teams)
+ - The horizontal line within the box indicates the median
+ - The “whiskers” extend to capture the outer 50% of values, providing insight into outliers and variability. 
+
 This plot reveals that **MLB teams exhibit the widest range in payrolls** over the past decade, with a significant gap between the highest and lowest spenders. In contrast, **NFL teams operate within a much narrower spending band** due to the enforcement of a hard salary cap and floor. Notably, NFL team spending began the period near the MLB median but has since surpassed it.
 
 Meanwhile, **NBA payrolls started below** both the MLB’s interquartile range and the lowest-spending NFL teams. However, over time, NBA spending has **increased substantially**, with many teams now exceeding the median payroll of their MLB counterparts.
