@@ -1,0 +1,69 @@
+---
+layout: post
+title: "Intro: Do Dollars Drive Dynasties?"
+date: 2024-04-19 12:00:00 +0000
+categories: [Intro, Methodology]
+tags: [sports analytics, salary, nba, mlb, nfl, economics]
+---
+
+The modern era of sports is increasingly viewed through a financial lens. Blockbuster free agent signings, massive TV deals, ballooning team payrolls, and even the price of stadium concessions dominate conversations dominate the larger discussion more so than the results of actual games.
+
+This project investigates the relationship between financial investment and team success in three major North American professional leagues: the **NBA**, **MLB**, and **NFL**. Specifically, we ask:  
+👉 _Does higher spending actually translate to more wins and championships?_
+
+---
+
+### 💵 The Business of Sports
+
+- **Baseball** built the financial bedrock of American sports.
+- **Football** scaled for massive revenue and national appeal.
+- **Basketball** now drives innovation through global reach and player-driven economics.
+
+While it's often assumed that _money buys wins_, league-specific dynamics—like salary caps, revenue sharing, and different playoff structures—challenge that idea. This blog aims to quantify the relationship between team payroll and success across sports and explore what really drives success.
+
+---
+
+### 🧪 Methodology
+
+We took a data-driven approach to examine team spending and success from 2015 to 2024.
+
+#### 🔍 Data Decisions:
+- Focused on **team-level** data to reflect organizational spending and outcomes
+- Analyzed **10 years** across the NBA, MLB, and NFL for balance between scope and feasibility
+- Evaluated **regular season records, playoff wins, and team efficiency** metrics:
+  - `Net Rating` in NBA
+  - `OSRS/DSRS` in NFL
+  - `WAR/WAA` in MLB
+
+Wins serve as our anchor for measuring success—universal, intuitive, and meaningful across generations and league structures.
+
+#### 💡 Inspiration:
+Several previous studies informed the development of our methodology:
+ - _Rijal et al. (2023)_ conducted a similar analysis of payroll and performance data in Major League Baseball (MLB) and the National Basketball Association (NBA) while _Jang (2018)_ examined salary distribution across two baseball leagues: MLB and the Korean Baseball Organization (KBO). These studies provided valuable insights into comparing salary distribution and team performance across different leagues. 
+ - Visualizations presented in a _Wall Street Journal article (Diamond, 2025)_ on baseball salary distribution inspired some of our graphical representations. 
+
+
+#### 📈 Financial Variables:
+- Team payrolls (adjusted when needed)
+- League-specific economic rules:
+  - Salary caps & floors
+  - Luxury tax thresholds
+  - Revenue sharing systems
+
+Using visualizations and predictive modeling, we compare how spending shapes success in different leagues.
+
+---
+
+### 🎯 Evaluation Strategy
+
+A successful outcome will:
+- Identify the **strength of correlation** between spending and winning
+- Compare **differences by league**
+- Surface the **impact of financial policies** (e.g., cap limits or soft/hard structures)
+
+In future posts, we’ll dive deeper into each league:
+- 🔍 [MLB Analysis](#)
+- 🏈 [NFL Analysis](#)
+- 🏀 [NBA Analysis](#)
+
+Stay tuned as we reveal whether deep pockets truly build champions—or if smart spending and structure matter more.
