@@ -1,11 +1,9 @@
-<div class="iframe-wrapper">
+<div class="iframe-wrapper" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
   <iframe
     src="{{ include.src }}"
-    title="{{ include.title | default: 'Embedded Plot' }}"
-    width="100%"
-    height="600"
+    title="{{ include.title | default: 'Embedded visualization' }}"
     frameborder="0"
-    loading="lazy"
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
     allowfullscreen>
   </iframe>
 </div>

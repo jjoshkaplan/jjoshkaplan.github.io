@@ -28,6 +28,9 @@ We can also observe how the pandemic affected each league differently:
 
 These historical disruptions offer additional layers of context for understanding long-term financial trends.
 
-{% include embed/iframe.html src="/assets/plots/salary_boxplot.html" title="Cross-League Team Spend by Year" %}
+{% include embed/iframe.html 
+   src="/assets/plots/Cross_League_Distribution_of_Team_Spend_by_Year.html" 
+   title="Cross-League Team Spend by Year" %}
+
 
 
