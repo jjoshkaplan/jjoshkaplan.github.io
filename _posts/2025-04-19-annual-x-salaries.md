@@ -1,6 +1,6 @@
 ---
 title: "Visualizing Team Salary Distributions Across Leagues"
-date: 2025-04-19 09:00:00 -0400
+date: 2025-04-19 14:00:00 -0400
 categories: [Analysis, Spending]
 tags: [mlb, nba, nfl, salary cap, covid, sports economics]
 author: joshua
