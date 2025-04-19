@@ -30,3 +30,4 @@ These historical disruptions offer additional layers of context for understandin
 
 {% include embed/iframe.html src="/assets/plots/salary_boxplot.html" title="Cross-League Team Spend by Year" %}
 
+
