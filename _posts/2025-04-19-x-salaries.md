@@ -11,7 +11,9 @@ Before analyzing the relationship between financial investment and on-field succ
 
 {% include embed/iframe.html 
    src="/assets/plots/Cross_League_Distribution_of_Team_Spend_by_Year.html" 
-   title="Cross-League Team Spend by Year" %}
+   title="Cross-League Team Spend by Year" 
+   height="396" 
+%}
 
 
 The plot above presents each league in a distinct color, using box-and-whisker plots to visualize the distribution of team payrolls. 
