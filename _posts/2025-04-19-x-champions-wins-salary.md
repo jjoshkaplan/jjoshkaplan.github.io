@@ -1,7 +1,7 @@
 ---
 title: "Do Spending and Wins Guarantee Championships?"
 date: 2025-04-20 15:00:00 -0400
-categories: [Cross League, Championships]
+categories: [Cross League, Champions]
 tags: [sports analytics, salary, playoff wins, nba, nfl, mlb]
 author: joshua
 ---
