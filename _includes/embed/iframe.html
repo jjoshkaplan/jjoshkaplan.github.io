@@ -1,25 +1,9 @@
-<style>
-  .viz-container {
-    width: 100%;
-    min-width: 396px;
-    min-height: 396px;
-    margin: 0 auto;
-  }
-
-  .viz-container iframe {
-    width: 100%;
-    height: 100%;
-    border: none;
-    min-width: 396px;
-    min-height: 396px;
-  }
-</style>
-
-<div class="viz-container">
-  <iframe
-    src="{{ include.src }}"
-    title="{{ include.title | default: 'Embedded visualization' }}"
-    loading="lazy"
-    scrolling="no"
-  ></iframe>
-</div>
+<iframe
+  src="{{ include.src }}"
+  title="{{ include.title | default: 'Embedded Visualization' }}"
+  width="{{ include.width | default: '100%' }}"
+  height="{{ include.height | default: '700' }}"
+  frameborder="0"
+  style="border: none; display: block; margin: 0 auto;"
+  allowfullscreen>
+</iframe>
