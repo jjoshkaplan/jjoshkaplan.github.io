@@ -1,5 +1,5 @@
 ---
-title: "Do Dollars Drive Playoff Dominance?"
+title: "High Rollers vs. Dark Horses: The Financial Landscape of Playoff Wins"
 date: 2025-04-20 12:00:00 -0400
 categories: [Playoffs, Analysis]
 tags: [sports analytics, salary, nba, mlb, nfl, economics, playoff performance]
@@ -26,6 +26,6 @@ These trends emphasize how postseason structure and league-specific dynamics sha
 {% include embed/iframe.html 
   src="/assets/plots/Cross_League_Playoff_Wins_Spend_Tier.html" 
   title="Playoff Wins by Spending Tier" 
-  height="650" 
-  width="1500" 
+  height="700" 
+  width="100%" 
 %}
