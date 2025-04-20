@@ -21,8 +21,6 @@ Several key takeaways emerge:
 - Medium-tier teams have proven capable of winning championships, countering the notion that only the top spenders succeed.
 - In the **NFL**, there is greater parity—each spending tier has produced at least three champions in the past decade.
 
-These trends emphasize how postseason structure and league-specific dynamics shape the impact of financial strategy on ultimate success.
-
 {% include embed/iframe.html 
   src="/assets/plots/Cross_League_Playoff_Wins_Spend_Tier.html" 
   title="Playoff Wins by Spending Tier" 
