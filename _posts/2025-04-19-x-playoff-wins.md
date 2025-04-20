@@ -26,7 +26,7 @@ These trends emphasize how postseason structure and league-specific dynamics sha
 {% include embed/iframe.html 
   src="/assets/plots/Cross_League_Playoff_Wins_Spend_Tier.html" 
   title="Playoff Wins by Spending Tier" 
-  height="700"
+  height="750"
 %}
 
 ---
