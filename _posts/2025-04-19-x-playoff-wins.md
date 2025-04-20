@@ -1,7 +1,7 @@
 ---
 title: "High Rollers vs. Dark Horses: The Financial Landscape of Playoff Wins"
 date: 2025-04-20 12:00:00 -0400
-categories: [Cross League, Playoffs]
+categories: [Cross League, Playoffs, Champions]
 tags: [sports analytics, salary, nba, mlb, nfl, economics, playoff performance]
 author: joshua
 ---
