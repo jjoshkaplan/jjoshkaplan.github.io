@@ -1,0 +1,34 @@
+{% if page.authors %}
+<div class="post-authors">
+  {% for author_id in page.authors %} {% assign author =
+  site.data.authors[author_id] %}
+  <div class="author-content">
+    {% if author.avatar %}
+    <img
+      src="{{ author.avatar }}"
+      alt="{{ author.name }}"
+      class="author-avatar"
+    />
+    {% endif %}
+    <div class="author-meta">
+      <h3 class="author-name">{{ author.name }}</h3>
+      {% if author.bio %}
+      <p class="author-bio">{{ author.bio }}</p>
+      {% endif %}
+      <p class="author-links">
+        {% if author.github %}
+        <a href="https://github.com/{{ author.github }}" target="_blank"
+          >GitHub</a
+        >
+        {% endif %} {% if author.twitter %} {% if author.github %} &bull; {%
+        endif %}
+        <a href="https://twitter.com/{{ author.twitter }}" target="_blank"
+          >Twitter</a
+        >
+        {% endif %}
+      </p>
+    </div>
+  </div>
+  {% endfor %}
+</div>
+{% endif %}
