@@ -29,7 +29,7 @@ github:
   username: 'jjoshkaplan' # change to your GitHub username
 
 twitter:
-  username: 'splashattack'  # change to your Twitter username
+  username: 'sp1ashattack'  # change to your Twitter username
 
 social:
   # Change to your full name.
@@ -38,11 +38,11 @@ social:
   email: jjoshk@umich.edu # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username # change to your Twitter homepage
-    - https://github.com/username # change to your GitHub homepage
+    - https://twitter.com/sp1ashattack # change to your Twitter homepage
+    - https://github.com/jjoshkaplan # change to your GitHub homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
+    - https://www.linkedin.com/in/josh-kaplan/
 
 # Site Verification Settings
 #webmaster_verifications:
