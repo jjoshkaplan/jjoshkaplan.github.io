@@ -1,5 +1,5 @@
 ---
-title: "Conclusions: "
+title: "Conclusions: Championships Aren't Bought Alone "
 date: 2025-04-19 04:00:00 +0000
 categories: [Conclusions]
 tags: []
