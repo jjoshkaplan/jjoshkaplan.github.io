@@ -1,0 +1,301 @@
+year,team,team_salary,wins,playoff_wins,champion,spend_tier,sport
+2024,New York Yankees,314741274.0,94,8,False,High,MLB
+2024,Philadelphia Phillies,247291271.0,95,1,False,High,MLB
+2024,Los Angeles Dodgers,265870208.0,98,11,True,High,MLB
+2024,New York Mets,317483315.0,89,7,False,High,MLB
+2024,Chicago Cubs,232067975.0,83,0,False,High,MLB
+2024,Houston Astros,248559896.0,88,0,False,High,MLB
+2024,Atlanta Braves,238433901.0,89,0,False,High,MLB
+2024,Texas Rangers,227545408.0,78,0,False,High,MLB
+2024,San Diego Padres,172855090.0,93,4,False,Medium,MLB
+2024,Arizona Diamondbacks,178306829.0,89,0,False,Medium,MLB
+2024,Toronto Blue Jays,219088534.0,74,0,False,Medium,MLB
+2024,St. Louis Cardinals,179432759.0,83,0,False,Medium,MLB
+2024,San Francisco Giants,202384048.0,80,0,False,Medium,MLB
+2024,Minnesota Twins,129330051.0,82,0,False,Medium,MLB
+2024,Seattle Mariners,148953846.0,85,0,False,Medium,MLB
+2024,Kansas City Royals,125470914.0,86,3,False,Medium,MLB
+2024,Colorado Rockies,146100965.0,61,0,False,Medium,MLB
+2024,Boston Red Sox,188537445.0,81,0,False,Medium,MLB
+2024,Chicago White Sox,140497547.0,41,0,False,Medium,MLB
+2024,Milwaukee Brewers,123393744.0,93,1,False,Medium,MLB
+2024,Baltimore Orioles,110835494.0,91,0,False,Medium,MLB
+2024,Washington Nationals,106445407.0,71,0,False,Low,MLB
+2024,Cincinnati Reds,102254855.0,77,0,False,Low,MLB
+2024,Pittsburgh Pirates,84050989.0,76,0,False,Low,MLB
+2024,Cleveland Guardians,105224582.0,92,4,False,Low,MLB
+2024,Los Angeles Angels,174189987.0,63,0,False,Medium,MLB
+2024,Tampa Bay Rays,89707422.0,80,0,False,Low,MLB
+2024,Detroit Tigers,96971614.0,86,4,False,Low,MLB
+2024,Oakland Athletics,62132581.0,69,0,False,Low,MLB
+2024,Miami Marlins,96590305.0,62,0,False,Low,MLB
+2023,Philadelphia Phillies,245410961.0,90,8,False,High,MLB
+2023,Houston Astros,237107748.0,90,6,False,High,MLB
+2023,Toronto Blue Jays,214916600.0,89,0,False,Medium,MLB
+2023,New York Yankees,278651150.0,82,0,False,High,MLB
+2023,San Diego Padres,253450531.0,82,0,False,High,MLB
+2023,Atlanta Braves,204689131.0,104,1,False,Medium,MLB
+2023,Texas Rangers,251332754.0,90,13,True,High,MLB
+2023,Los Angeles Dodgers,235743243.0,100,0,False,High,MLB
+2023,Chicago Cubs,189409358.0,83,0,False,Medium,MLB
+2023,San Francisco Giants,189398165.0,79,0,False,Medium,MLB
+2023,Boston Red Sox,180926796.0,78,0,False,Medium,MLB
+2023,New York Mets,344346522.0,75,0,False,High,MLB
+2023,Milwaukee Brewers,119399140.0,92,0,False,Medium,MLB
+2023,Chicago White Sox,162863836.0,61,0,False,Medium,MLB
+2023,St. Louis Cardinals,153793028.0,71,0,False,Medium,MLB
+2023,Detroit Tigers,119344514.0,78,0,False,Medium,MLB
+2023,Minnesota Twins,155999708.0,87,3,False,Medium,MLB
+2023,Colorado Rockies,171026607.0,59,0,False,Medium,MLB
+2023,Seattle Mariners,125040117.0,88,0,False,Medium,MLB
+2023,Miami Marlins,105435809.0,84,0,False,Medium,MLB
+2023,Arizona Diamondbacks,116777354.0,84,10,False,Medium,MLB
+2023,Cleveland Guardians,88911627.0,76,0,False,Low,MLB
+2023,Kansas City Royals,95596347.0,56,0,False,Low,MLB
+2023,Baltimore Orioles,68706439.0,101,0,False,Low,MLB
+2023,Tampa Bay Rays,74948362.0,99,0,False,Low,MLB
+2023,Washington Nationals,93378663.0,71,0,False,Low,MLB
+2023,Cincinnati Reds,94853417.0,82,0,False,Low,MLB
+2023,Los Angeles Angels,235384276.0,73,0,False,High,MLB
+2023,Oakland Athletics,62243227.0,50,0,False,Low,MLB
+2023,Pittsburgh Pirates,74670975.0,76,0,False,Low,MLB
+2022,New York Mets,262720327.0,101,1,False,High,MLB
+2022,Los Angeles Dodgers,264996019.0,111,1,False,High,MLB
+2022,New York Yankees,252957200.0,99,3,False,High,MLB
+2022,San Diego Padres,224511694.0,89,6,False,High,MLB
+2022,Philadelphia Phillies,244484097.0,87,11,False,High,MLB
+2022,Chicago White Sox,203205326.0,81,0,False,High,MLB
+2022,Houston Astros,183791796.0,106,11,True,High,MLB
+2022,Atlanta Braves,177138888.0,101,1,False,Medium,MLB
+2022,Toronto Blue Jays,177287681.0,92,0,False,Medium,MLB
+2022,St. Louis Cardinals,155378325.0,93,0,False,Medium,MLB
+2022,Los Angeles Angels,177727811.0,73,0,False,Medium,MLB
+2022,Boston Red Sox,211812131.0,78,0,False,High,MLB
+2022,Detroit Tigers,135112588.0,66,0,False,Medium,MLB
+2022,Texas Rangers,150037446.0,68,0,False,Medium,MLB
+2022,Milwaukee Brewers,133086663.0,86,0,False,Medium,MLB
+2022,Seattle Mariners,110826407.0,90,2,False,Medium,MLB
+2022,Chicago Cubs,150580017.0,74,0,False,Medium,MLB
+2022,Minnesota Twins,150363491.0,78,0,False,Medium,MLB
+2022,Colorado Rockies,140012218.0,68,0,False,Medium,MLB
+2022,Kansas City Royals,92613711.0,65,0,False,Low,MLB
+2022,Washington Nationals,126672438.0,55,0,False,Medium,MLB
+2022,Cleveland Guardians,66477492.0,92,4,False,Low,MLB
+2022,Miami Marlins,88454422.0,69,0,False,Low,MLB
+2022,Arizona Diamondbacks,85119750.0,74,0,False,Low,MLB
+2022,Tampa Bay Rays,97167073.0,86,0,False,Low,MLB
+2022,San Francisco Giants,161717317.0,81,0,False,Medium,MLB
+2022,Pittsburgh Pirates,56184032.0,62,0,False,Low,MLB
+2022,Baltimore Orioles,44888388.0,83,0,False,Low,MLB
+2022,Cincinnati Reds,115417321.0,62,0,False,Medium,MLB
+2022,Oakland Athletics,48443900.0,60,0,False,Low,MLB
+2021,New York Mets,201189189.0,77,0,False,High,MLB
+2021,Los Angeles Dodgers,261516971.0,106,6,False,High,MLB
+2021,Houston Astros,194222042.0,95,9,False,High,MLB
+2021,New York Yankees,203311013.0,92,0,False,High,MLB
+2021,Boston Red Sox,186718068.0,92,6,False,High,MLB
+2021,Philadelphia Phillies,190513223.0,82,0,False,High,MLB
+2021,San Francisco Giants,171191545.0,107,2,False,Medium,MLB
+2021,San Diego Padres,179767346.0,79,0,False,High,MLB
+2021,Chicago White Sox,140406825.0,93,1,False,Medium,MLB
+2021,St. Louis Cardinals,151469994.0,90,0,False,Medium,MLB
+2021,Atlanta Braves,151393755.0,88,11,True,Medium,MLB
+2021,Toronto Blue Jays,150140253.0,91,0,False,Medium,MLB
+2021,Cincinnati Reds,126608690.0,83,0,False,Medium,MLB
+2021,Minnesota Twins,121417939.0,73,0,False,Medium,MLB
+2021,Milwaukee Brewers,99377415.0,95,1,False,Medium,MLB
+2021,Colorado Rockies,116208966.0,74,0,False,Medium,MLB
+2021,Detroit Tigers,83698945.0,77,0,False,Low,MLB
+2021,Seattle Mariners,83822113.0,90,0,False,Low,MLB
+2021,Arizona Diamondbacks,91632929.0,52,0,False,Medium,MLB
+2021,Kansas City Royals,91595545.0,74,0,False,Medium,MLB
+2021,Oakland Athletics,89767668.0,86,0,False,Low,MLB
+2021,Washington Nationals,144415187.0,65,0,False,Medium,MLB
+2021,Tampa Bay Rays,70104552.0,100,1,False,Low,MLB
+2021,Cleveland Guardians,50670534.0,80,0,False,Low,MLB
+2021,Los Angeles Angels,182749560.0,77,0,False,High,MLB
+2021,Chicago Cubs,144037170.0,71,0,False,Medium,MLB
+2021,Texas Rangers,95788819.0,60,0,False,Medium,MLB
+2021,Pittsburgh Pirates,54356609.0,61,0,False,Low,MLB
+2021,Miami Marlins,58088180.0,67,0,False,Low,MLB
+2021,Baltimore Orioles,42421870.0,52,0,False,Low,MLB
+2020,Los Angeles Dodgers,124719080.0,43,13,True,High,MLB
+2020,New York Yankees,111939081.0,33,4,False,High,MLB
+2020,Chicago Cubs,86012838.0,34,0,False,High,MLB
+2020,Houston Astros,82574115.0,29,8,False,High,MLB
+2020,Philadelphia Phillies,73543547.0,28,0,False,Medium,MLB
+2020,Los Angeles Angels,67040893.0,26,0,False,Medium,MLB
+2020,San Diego Padres,72861614.0,37,2,False,Medium,MLB
+2020,Cincinnati Reds,55147001.0,31,0,False,Medium,MLB
+2020,St. Louis Cardinals,73246343.0,30,1,False,Medium,MLB
+2020,Atlanta Braves,60552671.0,35,8,False,Medium,MLB
+2020,Minnesota Twins,59679689.0,36,0,False,Medium,MLB
+2020,New York Mets,81945598.0,26,0,False,High,MLB
+2020,Washington Nationals,74697333.0,26,0,False,High,MLB
+2020,Chicago White Sox,53665251.0,35,1,False,Medium,MLB
+2020,San Francisco Giants,73972317.0,29,0,False,High,MLB
+2020,Boston Red Sox,84210390.0,24,0,False,High,MLB
+2020,Oakland Athletics,36720178.0,36,3,False,Low,MLB
+2020,Cleveland Guardians,39299107.0,35,0,False,Low,MLB
+2020,Toronto Blue Jays,54237801.0,32,0,False,Medium,MLB
+2020,Texas Rangers,63876359.0,22,0,False,Medium,MLB
+2020,Detroit Tigers,43164880.0,23,0,False,Medium,MLB
+2020,Milwaukee Brewers,41434086.0,29,0,False,Low,MLB
+2020,Seattle Mariners,50563459.0,27,0,False,Medium,MLB
+2020,Kansas City Royals,34934696.0,26,0,False,Low,MLB
+2020,Colorado Rockies,67808533.0,26,0,False,Medium,MLB
+2020,Tampa Bay Rays,28290689.0,40,11,False,Low,MLB
+2020,Arizona Diamondbacks,65598752.0,25,0,False,Medium,MLB
+2020,Miami Marlins,33901920.0,31,2,False,Low,MLB
+2020,Pittsburgh Pirates,25343022.0,19,0,False,Low,MLB
+2020,Baltimore Orioles,23478635.0,25,0,False,Low,MLB
+2019,Chicago Cubs,221580085.0,84,0,False,High,MLB
+2019,New York Yankees,223019037.0,103,5,False,High,MLB
+2019,Boston Red Sox,229166880.0,84,0,False,High,MLB
+2019,Los Angeles Dodgers,207000814.0,106,2,False,High,MLB
+2019,Washington Nationals,172307808.0,93,12,True,High,MLB
+2019,Houston Astros,167138259.0,107,10,False,High,MLB
+2019,San Francisco Giants,178054110.0,77,0,False,High,MLB
+2019,St. Louis Cardinals,173544423.0,91,3,False,High,MLB
+2019,Colorado Rockies,155403513.0,71,0,False,Medium,MLB
+2019,Los Angeles Angels,157999465.0,72,0,False,Medium,MLB
+2019,Atlanta Braves,143947963.0,97,2,False,Medium,MLB
+2019,Milwaukee Brewers,135889019.0,89,0,False,Medium,MLB
+2019,New York Mets,146538234.0,86,0,False,Medium,MLB
+2019,Minnesota Twins,125256003.0,101,0,False,Medium,MLB
+2019,Texas Rangers,148538766.0,78,0,False,Medium,MLB
+2019,Seattle Mariners,144388309.0,68,0,False,Medium,MLB
+2019,Cincinnati Reds,128691569.0,75,0,False,Medium,MLB
+2019,Oakland Athletics,99199531.0,97,0,False,Low,MLB
+2019,Cleveland Guardians,106838693.0,93,0,False,Medium,MLB
+2019,Philadelphia Phillies,158976752.0,81,0,False,Medium,MLB
+2019,Detroit Tigers,114631137.0,47,0,False,Medium,MLB
+2019,Kansas City Royals,103973003.0,59,0,False,Low,MLB
+2019,Chicago White Sox,91371201.0,72,0,False,Low,MLB
+2019,Miami Marlins,75596271.0,57,0,False,Low,MLB
+2019,San Diego Padres,105099790.0,70,0,False,Low,MLB
+2019,Arizona Diamondbacks,118672377.0,85,0,False,Medium,MLB
+2019,Tampa Bay Rays,64178722.0,96,3,False,Low,MLB
+2019,Baltimore Orioles,73328658.0,54,0,False,Low,MLB
+2019,Toronto Blue Jays,111086139.0,67,0,False,Medium,MLB
+2019,Pittsburgh Pirates,72176474.0,69,0,False,Low,MLB
+2018,Boston Red Sox,227398860.0,108,11,True,High,MLB
+2018,Los Angeles Dodgers,199582045.0,92,8,False,High,MLB
+2018,Houston Astros,163706636.0,103,4,False,High,MLB
+2018,Chicago Cubs,194259933.0,95,0,False,High,MLB
+2018,New York Yankees,180098151.0,100,2,False,High,MLB
+2018,Seattle Mariners,160243827.0,89,0,False,Medium,MLB
+2018,Colorado Rockies,143968544.0,91,1,False,Medium,MLB
+2018,Washington Nationals,181382609.0,82,0,False,High,MLB
+2018,Cleveland Guardians,142604703.0,91,0,False,Medium,MLB
+2018,San Francisco Giants,205665348.0,73,0,False,High,MLB
+2018,St. Louis Cardinals,162334311.0,88,0,False,Medium,MLB
+2018,Arizona Diamondbacks,141724597.0,82,0,False,Medium,MLB
+2018,Philadelphia Phillies,104297471.0,80,0,False,Low,MLB
+2018,Texas Rangers,140625018.0,67,0,False,Medium,MLB
+2018,Los Angeles Angels,173717599.0,80,0,False,High,MLB
+2018,Milwaukee Brewers,108982016.0,96,6,False,Medium,MLB
+2018,Kansas City Royals,129944821.0,58,0,False,Medium,MLB
+2018,New York Mets,150187987.0,77,0,False,Medium,MLB
+2018,Cincinnati Reds,100305768.0,67,0,False,Low,MLB
+2018,Toronto Blue Jays,150946147.0,73,0,False,Medium,MLB
+2018,Atlanta Braves,129739447.0,90,1,False,Medium,MLB
+2018,Baltimore Orioles,130413607.0,47,0,False,Medium,MLB
+2018,Pittsburgh Pirates,91025861.0,82,0,False,Low,MLB
+2018,Detroit Tigers,130995349.0,64,0,False,Medium,MLB
+2018,Oakland Athletics,77673582.0,97,0,False,Low,MLB
+2018,Chicago White Sox,71839808.0,62,0,False,Low,MLB
+2018,Minnesota Twins,115538840.0,78,0,False,Medium,MLB
+2018,San Diego Padres,101760815.0,66,0,False,Low,MLB
+2018,Miami Marlins,91660500.0,63,0,False,Low,MLB
+2018,Tampa Bay Rays,68895137.0,90,0,False,Low,MLB
+2017,Los Angeles Dodgers,259302593.0,104,10,False,High,MLB
+2017,Boston Red Sox,209872508.0,93,1,False,High,MLB
+2017,San Francisco Giants,188406809.0,64,0,False,High,MLB
+2017,New York Yankees,209044502.0,91,7,False,High,MLB
+2017,Washington Nationals,182238854.0,97,2,False,High,MLB
+2017,Baltimore Orioles,174129785.0,75,0,False,High,MLB
+2017,Chicago Cubs,172092536.0,92,4,False,Medium,MLB
+2017,Houston Astros,138344211.0,101,11,True,Medium,MLB
+2017,Toronto Blue Jays,175617487.0,76,0,False,High,MLB
+2017,Texas Rangers,161966320.0,78,0,False,Medium,MLB
+2017,Kansas City Royals,148227822.0,80,0,False,Medium,MLB
+2017,Seattle Mariners,160741810.0,78,0,False,Medium,MLB
+2017,Cleveland Guardians,132258928.0,102,0,False,Medium,MLB
+2017,Los Angeles Angels,166161209.0,80,0,False,Medium,MLB
+2017,Colorado Rockies,139499341.0,87,0,False,Medium,MLB
+2017,St. Louis Cardinals,145256085.0,83,0,False,Medium,MLB
+2017,Detroit Tigers,188028874.0,64,0,False,High,MLB
+2017,Atlanta Braves,105268575.0,72,0,False,Medium,MLB
+2017,Arizona Diamondbacks,102619475.0,93,1,False,Low,MLB
+2017,Minnesota Twins,120842831.0,85,0,False,Medium,MLB
+2017,Miami Marlins,110765599.0,77,0,False,Medium,MLB
+2017,Pittsburgh Pirates,100503030.0,75,0,False,Low,MLB
+2017,Cincinnati Reds,96436003.0,68,0,False,Low,MLB
+2017,Tampa Bay Rays,77811205.0,80,0,False,Low,MLB
+2017,Milwaukee Brewers,64576736.0,86,0,False,Low,MLB
+2017,New York Mets,143315158.0,70,0,False,Medium,MLB
+2017,Chicago White Sox,85495238.0,67,0,False,Low,MLB
+2017,Oakland Athletics,73477080.0,75,0,False,Low,MLB
+2017,Philadelphia Phillies,104020808.0,66,0,False,Medium,MLB
+2017,San Diego Padres,76921678.0,71,0,False,Low,MLB
+2016,Los Angeles Dodgers,264470494.0,91,5,False,High,MLB
+2016,San Francisco Giants,178834344.0,87,2,False,High,MLB
+2016,Chicago Cubs,186772494.0,103,11,True,High,MLB
+2016,Boston Red Sox,207758836.0,93,0,False,High,MLB
+2016,Detroit Tigers,200179285.0,86,0,False,High,MLB
+2016,New York Yankees,220743376.0,84,0,False,High,MLB
+2016,Baltimore Orioles,154148832.0,89,0,False,Medium,MLB
+2016,Texas Rangers,163021690.0,95,0,False,High,MLB
+2016,Toronto Blue Jays,148385479.0,89,5,False,Medium,MLB
+2016,St. Louis Cardinals,149355870.0,86,0,False,Medium,MLB
+2016,Seattle Mariners,147003780.0,86,0,False,Medium,MLB
+2016,Washington Nationals,139583852.0,95,2,False,Medium,MLB
+2016,Kansas City Royals,141587358.0,81,0,False,Medium,MLB
+2016,New York Mets,147236560.0,87,0,False,Medium,MLB
+2016,Los Angeles Angels,174290373.0,74,0,False,High,MLB
+2016,Chicago White Sox,129715686.0,78,0,False,Medium,MLB
+2016,Colorado Rockies,106902280.0,75,0,False,Medium,MLB
+2016,Arizona Diamondbacks,97874482.0,69,0,False,Medium,MLB
+2016,Houston Astros,99828742.0,84,0,False,Medium,MLB
+2016,Minnesota Twins,97244457.0,59,0,False,Low,MLB
+2016,Cincinnati Reds,87226437.0,68,0,False,Low,MLB
+2016,Cleveland Guardians,104971268.0,94,0,False,Medium,MLB
+2016,Miami Marlins,76365306.0,79,0,False,Low,MLB
+2016,Pittsburgh Pirates,99518136.0,78,0,False,Medium,MLB
+2016,Philadelphia Phillies,103898809.0,71,0,False,Medium,MLB
+2016,Milwaukee Brewers,62161191.0,73,0,False,Low,MLB
+2016,Atlanta Braves,95778126.0,68,0,False,Low,MLB
+2016,Tampa Bay Rays,62408549.0,68,0,False,Low,MLB
+2016,Oakland Athletics,83109288.0,69,0,False,Low,MLB
+2016,San Diego Padres,83435559.0,68,0,False,Low,MLB
+2015,Los Angeles Dodgers,301735080.0,92,2,False,High,MLB
+2015,New York Yankees,221242659.0,87,0,False,High,MLB
+2015,Washington Nationals,165655095.0,83,0,False,High,MLB
+2015,San Francisco Giants,180163630.0,84,0,False,High,MLB
+2015,St. Louis Cardinals,132178951.0,100,1,False,Medium,MLB
+2015,Texas Rangers,149424268.0,88,2,False,High,MLB
+2015,Kansas City Royals,126391174.0,95,11,True,Medium,MLB
+2015,Detroit Tigers,162160921.0,74,0,False,High,MLB
+2015,Chicago Cubs,132993810.0,97,4,False,Medium,MLB
+2015,Los Angeles Angels,142198162.0,85,0,False,High,MLB
+2015,Toronto Blue Jays,138309664.0,93,5,False,Medium,MLB
+2015,Baltimore Orioles,116400870.0,81,0,False,Medium,MLB
+2015,New York Mets,110398927.0,90,8,False,Medium,MLB
+2015,Minnesota Twins,106231818.0,83,0,False,Medium,MLB
+2015,Seattle Mariners,126045473.0,76,0,False,Medium,MLB
+2015,Boston Red Sox,183481478.0,78,0,False,High,MLB
+2015,Chicago White Sox,116925487.0,76,0,False,Medium,MLB
+2015,San Diego Padres,107915272.0,74,0,False,Medium,MLB
+2015,Pittsburgh Pirates,99435606.0,98,0,False,Low,MLB
+2015,Colorado Rockies,101277051.0,68,0,False,Medium,MLB
+2015,Cincinnati Reds,112333097.0,64,0,False,Medium,MLB
+2015,Houston Astros,81341546.0,86,3,False,Low,MLB
+2015,Milwaukee Brewers,93852267.0,68,0,False,Low,MLB
+2015,Atlanta Braves,110777379.0,67,0,False,Medium,MLB
+2015,Philadelphia Phillies,141722639.0,63,0,False,Medium,MLB
+2015,Tampa Bay Rays,73241552.0,80,0,False,Low,MLB
+2015,Cleveland Guardians,77404413.0,81,0,False,Low,MLB
+2015,Arizona Diamondbacks,76781801.0,79,0,False,Low,MLB
+2015,Oakland Athletics,80491339.0,68,0,False,Low,MLB
+2015,Miami Marlins,72990525.0,71,0,False,Low,MLB
