@@ -1,6 +1,4 @@
-# SIADS 699 Capstone
-
-Moneyball 2.0: Investigating the Relationship between Team Spend and Success
+# Moneyball 2.0: Investigating the Relationship between Team Spend and Success
 
 Winter 2025, Team 19.
 
