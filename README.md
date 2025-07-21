@@ -1,42 +1,5 @@
 # Moneyball 2.0: Investigating the Relationship between Team Spend and Success
 
-## Installation
-
-This project is installable as a standard Python package. Dependencies and other project information are included in [`pyproject.toml`](pyproject.toml). You can use pip or get set up quickly using [uv](https://docs.astral.sh/uv/getting-started/installation/).
-
-### pip
-
-```text
-pip install -e .
-```
-
-> [!TIP]
-> pip support for installing from `[dependency-groups]` was just added and should be released soon. In the meantime, development dependencies must be manually installed.
-
-### uv
-
-```text
-uv sync
-```
-
-## Usage
-
-With the package installed, the project can be called with the `mads-capstone` command from the root of the repository. The tool supports skipping certain steps by passing optional arugments. Skipping data scraping (and thus using the existing provided data) with `--skip-scraping` is highly recommended to save time. Note: running the project may cause file changes due to how some visualizations contain nondeterministic/timestamp dependent metadata.
-
-```text
-mads-capstone --skip-scraping
-```
-
-```text
-mads-capstone -h
-usage: mads-capstone [-h] [--skip-scraping] [--skip-modeling] [--skip-viz]
-
-options:
-  -h, --help       show this help message and exit
-  --skip-scraping  skip data scaping and cleaning
-  --skip-modeling  skip running predictive models
-  --skip-viz       skip generating visualizations
-```
 
 ## Data
 
