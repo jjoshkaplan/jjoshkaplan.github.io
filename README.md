@@ -1,7 +1,5 @@
 # Moneyball 2.0: Investigating the Relationship between Team Spend and Success
 
-Winter 2025, Team 19.
-
 ## Installation
 
 This project is installable as a standard Python package. Dependencies and other project information are included in [`pyproject.toml`](pyproject.toml). You can use pip or get set up quickly using [uv](https://docs.astral.sh/uv/getting-started/installation/).
