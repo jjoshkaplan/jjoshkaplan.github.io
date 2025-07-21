@@ -1,43 +1,65 @@
-# Chirpy Starter
+# SIADS 699 Capstone
 
-[![Gem Version](https://img.shields.io/gem/v/jekyll-theme-chirpy)][gem]&nbsp;
-[![GitHub license](https://img.shields.io/github/license/cotes2020/chirpy-starter.svg?color=blue)][mit]
+Moneyball 2.0: Investigating the Relationship between Team Spend and Success
 
-When installing the [**Chirpy**][chirpy] theme through [RubyGems.org][gem], Jekyll can only read files in the folders
-`_data`, `_layouts`, `_includes`, `_sass` and `assets`, as well as a small part of options of the `_config.yml` file
-from the theme's gem. If you have ever installed this theme gem, you can use the command
-`bundle info --path jekyll-theme-chirpy` to locate these files.
+Winter 2025, Team 19.
 
-The Jekyll team claims that this is to leave the ball in the user’s court, but this also results in users not being
-able to enjoy the out-of-the-box experience when using feature-rich themes.
+## Installation
 
-To fully use all the features of **Chirpy**, you need to copy the other critical files from the theme's gem to your
-Jekyll site. The following is a list of targets:
+This project is installable as a standard Python package. Dependencies and other project information are included in [`pyproject.toml`](pyproject.toml). You can use pip or get set up quickly using [uv](https://docs.astral.sh/uv/getting-started/installation/).
 
-```shell
-.
-├── _config.yml
-├── _plugins
-├── _tabs
-└── index.html
+### pip
+
+```text
+pip install -e .
 ```
 
-To save you time, and also in case you lose some files while copying, we extract those files/configurations of the
-latest version of the **Chirpy** theme and the [CD][CD] workflow to here, so that you can start writing in minutes.
+> [!TIP]
+> pip support for installing from `[dependency-groups]` was just added and should be released soon. In the meantime, development dependencies must be manually installed.
+
+### uv
+
+```text
+uv sync
+```
 
 ## Usage
 
-Check out the [theme's docs](https://github.com/cotes2020/jekyll-theme-chirpy/wiki).
+With the package installed, the project can be called with the `mads-capstone` command from the root of the repository. The tool supports skipping certain steps by passing optional arugments. Skipping data scraping (and thus using the existing provided data) with `--skip-scraping` is highly recommended to save time. Note: running the project may cause file changes due to how some visualizations contain nondeterministic/timestamp dependent metadata.
 
-## Contributing
+```text
+mads-capstone --skip-scraping
+```
 
-This repository is automatically updated with new releases from the theme repository. If you encounter any issues or want to contribute to its improvement, please visit the [theme repository][chirpy] to provide feedback.
+```text
+mads-capstone -h
+usage: mads-capstone [-h] [--skip-scraping] [--skip-modeling] [--skip-viz]
 
-## License
+options:
+  -h, --help       show this help message and exit
+  --skip-scraping  skip data scaping and cleaning
+  --skip-modeling  skip running predictive models
+  --skip-viz       skip generating visualizations
+```
 
-This work is published under [MIT][mit] License.
+## Data
 
-[gem]: https://rubygems.org/gems/jekyll-theme-chirpy
-[chirpy]: https://github.com/cotes2020/jekyll-theme-chirpy/
-[CD]: https://en.wikipedia.org/wiki/Continuous_deployment
-[mit]: https://github.com/cotes2020/chirpy-starter/blob/master/LICENSE
+The data used for our analysis is included in this repository under the [`data`](data) folder. We collected and included the data we used in this repository for the purposes of our analysis, but these should not be redistributed in a manner that violates the terms of the data sources.
+
+### Sports Reference
+
+The majority of sports statistics comes from [Sports Reference](https://www.sports-reference.com/). This website includes detailed information for [MLB](https://www.baseball-reference.com/), [NBA](https://www.basketball-reference.com/), and [NFL](https://www.pro-football-reference.com/).
+
+Sports Reference has [policies](https://www.sports-reference.com/data_use.html) restricting the use of redistributing their data as a competitive database and of using their data to train generative artificial intelligence models. They also have restrictions on abusively scraping their data.
+
+### Over The Cap
+
+Data was collected from [Over The Cap](https://overthecap.com/) for NFL positional spending. Their [terms](https://overthecap.com/terms-and-conditions) prohibit collecting and scraping their pages for competitive commercial purposes.
+
+### HoopsHype
+
+NBA team salaries were collected from [HoopsHype](https://hoopshype.com/). Their [terms](https://cm.usatoday.com/terms/) prohibit commercial use of their materials.
+
+### Spotrac
+
+[Spotrac](https://www.spotrac.com/) was used to collect salary information for MLB teams. Their [terms](https://www.spotrac.com/service/) outline prohibited uses such as republishing their data in a database or compilation.
